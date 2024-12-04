@@ -1,4 +1,4 @@
-# yafeelsogoodgame repo
+# YaFeelSoGoodGame repo
 기분이 좋아지는 게임을 모아둔 저장소입니다.
 
 ## [bounjiball.apk](https://github.com/imqge/yafeelsogoodgame/raw/refs/heads/main/bounjiball.apk)
